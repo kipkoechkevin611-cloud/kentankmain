@@ -118,8 +118,8 @@ const Footer = () => {
                 <Phone className="w-4 h-4 text-orange-500 mt-0.5 flex-shrink-0" />
                 <div>
                   <p className="text-sm text-gray-400">Phone</p>
-                  <a href="tel:+254737042076" className="text-white hover:text-orange-500 transition-colors text-sm">
-                    +254737042076
+                  <a href="tel:+254782814755" className="text-white hover:text-orange-500 transition-colors text-sm">
+                    +254782814755
                   </a>
                 </div>
               </div>
@@ -127,8 +127,8 @@ const Footer = () => {
                 <MessageCircle className="w-4 h-4 text-green-500 mt-0.5 flex-shrink-0" />
                 <div>
                   <p className="text-sm text-gray-400">WhatsApp</p>
-                  <a href="https://wa.me/254737042076" target="_blank" rel="noopener noreferrer" className="text-white hover:text-orange-500 transition-colors text-sm">
-                    +254737042076
+                  <a href="https://wa.me/254782814755" target="_blank" rel="noopener noreferrer" className="text-white hover:text-orange-500 transition-colors text-sm">
+                    +254782814755
                   </a>
                 </div>
               </div>
