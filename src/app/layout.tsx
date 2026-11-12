@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://kentank.co.ke';
 const siteName = process.env.NEXT_PUBLIC_SITE_NAME || 'Kentank Kenya';
 const contactEmail = process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'kentank4414@gmail.com';
-const contactPhone = process.env.NEXT_PUBLIC_CONTACT_PHONE || '+254736142368';
+const contactPhone = process.env.NEXT_PUBLIC_CONTACT_PHONE || '+254734142368';
 
 export const metadata: Metadata = {
   title: "Kentank Water Tanks Kenya | Premium Water Storage Solutions",
