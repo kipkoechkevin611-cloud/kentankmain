@@ -65,7 +65,7 @@ ${formData.notes ? `• Notes: ${formData.notes}` : ''}`;
     );
 
     setTimeout(() => {
-      window.open(`https://wa.me/254782814755?text=${whatsappMessage}`, '_blank');
+      window.open(`https://wa.me/254736142368?text=${whatsappMessage}`, '_blank');
       setIsSubmitting(false);
       clearCart();
       setShowCheckoutForm(false);
